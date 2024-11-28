@@ -24,7 +24,7 @@ Este proyecto consiste en el diseño e implementación de una base de datos rela
     USE CamisetaTermicaInteligente;
     ```
 
-3. Importa el archivo `camisa_Termica.sql` y ejecuta el script.
+3. Importa el archivo `camisetaTermica.sql` y ejecuta el script.
 
 ### 2. **Verificar las Tablas y Datos**
 
